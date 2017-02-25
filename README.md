@@ -1,7 +1,7 @@
 
 #Informatix, Inc  ADPQ Vendor Pool Prototype B
 
-**Prototype URL** : https://CalNotify.informatixinc.biz <br />
+###_Prototype URL_ : https://CalNotify.informatixinc.biz <br />
 
 To login as an _Authorized Adminstrative User_ please enter:<br />
 ****Email Address**** calnotifyadmin@intormatixinc.com <br />
