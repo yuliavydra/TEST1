@@ -3,7 +3,7 @@
 
 ##Prototype URL  
 https://CalNotify.informatixinc.biz/  
-####To login as an _Authorized Adminstrative User_ please enter:  
+#### To login as an _Authorized Adminstrative User_ please enter:  
 >_Email Address:_ **calnotifyadmin@intormatixinc.com**  
 _Password:_ **Calnotify1!**
 
