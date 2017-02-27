@@ -7,10 +7,9 @@ https://CalNotify.informatixinc.biz/ <br />
 >**_Email Address:_** calnotifyadmin@intormatixinc.com <br>
 >**_Password:_**: Calnotify1!
 
-##
-User Manual <br/>
+###User Manual <br/>
 [Link to User Manual Here](https://github.com/informatixinc/Cal-Notify/tree/master/db_schema)<br />
-####CalNotify Architecture
+###CalNotify Architecture
 CalNotify''s three tier architecture is built utilizing open source technologies of Angular 2 , Java API and PostreSQL <br>
 ![](https://github.com/yuliavydra/TEST1/blob/master/CaNotifyArchitecture.PNG)
 
