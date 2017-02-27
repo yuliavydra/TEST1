@@ -11,7 +11,7 @@ https://CalNotify.informatixinc.biz/
 [Link to User Manual Here](https://github.com/informatixinc/Cal-Notify/tree/master/db_schema)  
 ###CalNotify Architecture
 CalNotify''s three tier architecture is built utilizing open source technologies of Angular 2 , Java API and PostreSQL  
-![](https://github.com/yuliavydra/TEST1/blob/master/CaNotifyArchitecture.PNG)
+![CalNotify Architecture](https://github.com/yuliavydra/TEST1/blob/master/CaNotifyArchitecture.PNG)
 
 
 
