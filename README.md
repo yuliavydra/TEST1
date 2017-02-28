@@ -16,7 +16,7 @@ CalNotify's three tier architecture is built utilizing open source technologies 
 
 ## Technical Approach
 >
->
+
 ##Team
 >a.Assigned one (1) leader and gave that person authority and responsibility and held that
 person accountable for the quality of the prototype submitted
