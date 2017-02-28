@@ -30,15 +30,15 @@ categories as identified in Attachment B: PQVP DS-AD Labor Category Descriptions
 We assembled a very talented team of experienced and creative professionals using eleven labor categories  
 identified in the RFI: 
 
-1. Product Manager: Caroline Brown-Pierce  
-2. Technical Architect: Paul Ortiz  
-3. Interaction Design/User Researcher/Usability Tester - Lesa Jones  
-4. Writer/Content Designer/ Content Strategist: Yulia Vydra  
-5. Visual Designer:  Nirali Tank  
-6. Front End Web Developer: Sean Kammerich  
-7. Security Engineer: Sean Kammerich  
-8. Backend  Web Developers: Sean Kammerich, Nirali Tank  
-9. DevOps Engineer: Paul Ortiz  
+1.  Product Manager: Caroline Brown-Pierce  
+2.  Technical Architect: Paul Ortiz  
+3.  Interaction Design/User Researcher/Usability Tester - Lesa Jones  
+4.  Writer/Content Designer/ Content Strategist: Yulia Vydra  
+5.  Visual Designer:  Nirali Tank  
+6.  Front End Web Developer: Sean Kammerich  
+7.  Security Engineer: Sean Kammerich  
+8.  Backend  Web Developers: Sean Kammerich, Nirali Tank  
+9.  DevOps Engineer: Paul Ortiz  
 10. Delivery Manager: Lesa Jones  
 11. Business Analysts: Stephany Jones, Ian Toner, Luis Pelayo  
 
