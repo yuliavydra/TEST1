@@ -51,11 +51,11 @@ to be included based on address registered by user.
 >d.d. Used at least a minimum of three (3) “user-centric design” techniques and/or tools
 
 To create “user-centric” design we:
----Asked random people in the lobby of our building and in the nearest Starbucks coffee shop to evaluate clearness and  
+-Asked random people in the lobby of our building and in the nearest Starbucks coffee shop to evaluate clearness and  
 intuitively of 10 screen shots that included login page and profile settings page. The feedback we received led to creation  
 of dashboard and re-structuring of landing page.
----	We iterate this process by showing re-modeled pages to people in the office that have not seen any of the pages before.
----	We conducted on site testing by inviting people of different backgrounds and occupations to give us feedback for usability.
+-We iterate this process by showing re-modeled pages to people in the office that have not seen any of the pages before.
+-We conducted on site testing by inviting people of different backgrounds and occupations to give us feedback for usability.
 
 
 
