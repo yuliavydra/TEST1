@@ -42,6 +42,20 @@ identified in the RFI:
 10. Delivery Manager: Lesa Jones  
 11. Business Analysts: Stephany Jones, Ian Toner, Luis Pelayo  
 
+##Design
+>c. Understood what people needed, by including people in the prototype development and design process
+To understand what people need our team of business analysts has interviewed people outside the company as well as those working in  
+the company and not in any way aware or related to the project. The responses that were received were thereafter thoroughly analyzed. This analysis leads to understanding what type of information and in which form will be most valuable for the user and how properly structure of email, SMS and Push Notifications from authorized users. It is also helped us to understand radius and area of coverage  
+to be included based on address registered by user.
+
+>d.d. Used at least a minimum of three (3) “user-centric design” techniques and/or tools
+
+To create “user-centric” design we
+-	Asked random people in the lobby of our building and in the nearest Starbucks coffee shop to evaluate clearness and  
+intuitively of 10 screen shots that included login page and profile settings page. The feedback we received led to creation  
+of dashboard and re-structuring of landing page.
+-	We iterate this process by showing re-modeled pages to people in the office that have not seen any of the pages before.
+-	We conducted on site testing by inviting people of different backgrounds and occupations to give us feedback for usability.
 
 
 
