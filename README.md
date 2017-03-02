@@ -8,8 +8,8 @@ The user manual is located [here.]()
 
 To login as an Authorized Administrative User please enter:  
 
-    Email Address:  calnotifyadmin@informatixinc.com  
-    Password: Calnotify1!
+'''Email Address:  calnotifyadmin@informatixinc.com  
+'''Password: Calnotify1!
 
 
 ##**Technical Approach**
