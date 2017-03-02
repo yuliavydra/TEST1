@@ -1,61 +1,45 @@
 
-#Informatix, Inc  ADPQ Vendor Pool Prototype B
+#Informatix, Inc.  ADPQ Vendor Pool Prototype B
 
-##Prototype URL  
-https://CalNotify.informatixinc.biz/
+###Prototype:
+https://calnotify.informatixinc.biz/
 
-To login as an *Authorized Adminstrative User* please enter:  
->_Email Address:_ **calnotifyadmin@intormatixinc.com**  
-_Password:_ **Calnotify1!**
+The user manual is located [here.]()  
 
-###User Manual  
-[Link to User Manual Here](https://github.com/informatixinc/Cal-Notify/tree/master/db_schema)  
-###CalNotify Architecture
-CalNotify's three tier architecture is built utilizing open source technologies of Angular 2 , Java API and PostreSQL  
-![CalNotify Architecture](https://github.com/yuliavydra/TEST1/blob/master/CaNotifyArchitecture.PNG)
+To login as an Authorized Administrative User please enter:  
 
-## Technical Approach
->
+Email Address:  calnotifyadmin@informatixinc.com  
+Password: Calnotify1!
 
-##Team
->a.Assigned one (1) leader and gave that person authority and responsibility and held that
-person accountable for the quality of the prototype submitted
 
-We identified Caroline Brown-Pierce to be our Product Manager and Product Owner.  
-She was given authority to make final decisions on concept, design and functionality. 
+##**Technical Approach**
 
->b.Assembled a multidisciplinary and collaborative team that includes, at a minimum, five (5) of the labor  
-categories as identified in Attachment B: PQVP DS-AD Labor Category Descriptions
+Informatix Inc. is a minority-owned, Sacramento-based technology company that has provided information technology solutions
+and services to government and private industry for 30 years. Our response team for the Pre-Qualified Vendor Pool for
+Digital Services – Agile Development RFI utilized an agile human centered approach to create our ADPQ prototype. We focused 
+on the needs of the end users which drove our feature development and our application program interfaces (API) integration.
+We started with a discovery that included surveys, research, and interviews and focus groups with users which was conducted  continuously throughout the iterations. This continuous feedback promoted end user adoption and satisfaction. 
 
-We assembled a very talented team of experienced and creative professionals using eleven labor categories  
-identified in the RFI: 
+Our team used the following user centric processes to complete this prototype:
+* Conducted [surveys]() of the home page immediately following the start of the project
+* Conducted research to understand the trends within the industry and other State solutions
+* Created [personas]() to identify, personalize and focus on end users’ needs
+* Developed [user stories]() and created backlog
+* Developed front end UI web/mobile application. Conducted usability testing and improvements were incorporated into
+the design and user stories. The first usability test results are [here.]()
+* Developed functioning UI web/mobile application. Conducted quantitative and qualitative usability testing and improvements were incorporated into the user stories and final design
+* Developed fully functioning prototype including backend API. Conducted quantitative and qualitative usability testing and prioritized improvements which were incorporated into the user stories, final design or identified as additional improvements if prototype future improvements
 
-1.  Product Manager: Caroline Brown-Pierce  
-2.  Technical Architect: Paul Ortiz  
-3.  Interaction Design/User Researcher/Usability Tester - Lesa Jones  
-4.  Writer/Content Designer/ Content Strategist: Yulia Vydra  
-5.  Visual Designer:  Nirali Tank  
-6.  Front End Web Developer: Sean Kammerich  
-7.  Security Engineer: Sean Kammerich  
-8.  Backend  Web Developers: Sean Kammerich, Nirali Tank  
-9.  DevOps Engineer: Paul Ortiz  
-10. Delivery Manager: Lesa Jones  
-11. Business Analysts: Stephany Jones, Ian Toner, Luis Pelayo  
+We started each iteration with a sprint planning meeting. These meetings were time-boxed conversations, where our Product Manager and the team identified which stories to be worked on for that sprint. Our Product Manager prioritized and added the stories to the sprint backlog. We conducted daily, in person, scrum meetings to discuss the progress that was made since the last scrum meeting ('yesterday'), goals to accomplish before the next scrum meeting ('tomorrow'), and any impediments that were preventing team members from performing their work. We conducted whiteboard sessions, initial wireframes and mockups immediately after the project start date, so we could immediately start surveying end users and have an initial mock up in hand. We conducted whiteboard sessions, additional design sessions, made continuous updates to wireframes and mockups throughout the effort.  We performed testing and made adjustments based on issues and feedback from our test cycles and usability tests. Each of our sprint cycles was performed to ensure that the prototype functioned and met user requirements.
 
-##Design
->c. Understood what people needed, by including people in the prototype development and design process
-To understand what people need our team of business analysts has interviewed people outside the company as well as those working in  
-the company and not in any way aware or related to the project. The responses that were received were thereafter thoroughly analyzed. This analysis leads to understanding what type of information and in which form will be most valuable for the user and how properly structure of email, SMS and Push Notifications from authorized users. It is also helped us to understand radius and area of coverage  
-to be included based on address registered by user.
+###CalNotify Architecture|
+Cal Notify has a three tier [architecture]() built on Cascading Style Sheets, Java API and PostgreSQL database. 
 
->d.d. Used at least a minimum of three (3) “user-centric design” techniques and/or tools
+###Code Flow
+Our Code flow is identicated below
 
-To create “user-centric” design we:
--Asked random people in the lobby of our building and in the nearest Starbucks coffee shop to evaluate clearness and  
-intuitively of 10 screen shots that included login page and profile settings page. The feedback we received led to creation  
-of dashboard and re-structuring of landing page.
--We iterate this process by showing re-modeled pages to people in the office that have not seen any of the pages before.
--We conducted on site testing by inviting people of different backgrounds and occupations to give us feedback for usability.
+![code flow]()
+
 
 
 
