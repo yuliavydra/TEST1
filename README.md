@@ -6,10 +6,10 @@ https://calnotify.informatixinc.biz/
 
 The user manual is located [here.]()  
 
-To login as an Authorized Administrative User please enter:  
+**To login as an Authorized Administrative User please enter**:  
 
-**_Email Address_**:  calnotifyadmin@informatixinc.com  
-**_Password_**: Calnotify1!
+_Email Address_:  calnotifyadmin@informatixinc.com  
+_Password_: Calnotify1!
 
 
 ##**Technical Approach**
