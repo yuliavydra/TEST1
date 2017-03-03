@@ -75,30 +75,30 @@ Human centered design focuses on improving the user experience – a goal that i
   -	Conducted surveys and interviews to obtain feedback on the homepage, eliciting user expectations regarding log-in,  
   account formation, notification preferences, and general expectations regarding the functionality of the application.  
   
-* Ideation – during this phase, our team refined our conceptual understanding of user requirements, by completing the following:
--  Conducted [whiteboard sessions]() to review user feedback and expectations.
--	Created initial [user stories]() reflecting each persona and their requirements.  
--	Established a product backlog used for Sprint planning.
--	Utilized a Sprint Backlog for subsequent sprints.  
--	Developed [wireframes]() based on whiteboard sessions and user stories.
--	Developed a [template]() to facilitate usability testing, and conducted Usability Testing with users and held one-on-one interviews,    to review wireframes and elicit feedback.  
--	Developed mockups based on wireframes and results of Usability Testing.
--	Conducted additional [Usability Testing]() for mock-ups. 
--	Developed final user stories based on results of Usability Testing.
--	Create our [style guide]() and established design philosophy based on user feedback.
+* Ideation – during this phase, our team refined our conceptual understanding of user requirements, by completing the following:  
+  - Conducted [whiteboard sessions]() to review user feedback and expectations.
+  - Created initial [user stories]() reflecting each persona and their requirements.  
+  - Established a product backlog used for Sprint planning.
+  - Utilized a Sprint Backlog for subsequent sprints.  
+  - Developed [wireframes]() based on whiteboard sessions and user stories.
+  - Developed a [template]() to facilitate usability testing, and conducted Usability Testing with users and held one-on-one interviews,     to review wireframes and elicit feedback.  
+  - Developed mockups based on wireframes and results of Usability Testing.
+  - Conducted additional [Usability Testing]() for mock-ups. 
+  - Developed final user stories based on results of Usability Testing. 
+  - Create our [style guide]() and established design philosophy based on user feedback.
 
 * Implementation – our team’s implementation efforts included the following  
--	Began our first sprint cycle
--	Conduct Sprint Planning to commit to user stories to develop in the sprint
--	Conducted daily scrum meetings 
--	Developed first iteration of Cal Notify
--	Conducted [Usability Testing]() to elicit user feedback 
--	Refined user stories and product backlog based on user feedback
--	Conducted Quality Assurance and [Accessibility Testing]() with defect resolution as necessary.
--	Conduct Sprint Review meeting to demo completed software and to elicit acceptance/changes from stakeholders 
--	Initiated subsequent sprint cycles including scrum meetings, usability testing, quality assurance and accessibility testing,  
-   and defect resolution 
--	Released Informatix’ Cal Notify solution
+  - Began our first sprint cycle
+  - Conduct Sprint Planning to commit to user stories to develop in the sprint
+  - Conducted daily scrum meetings 
+  - Developed first iteration of Cal Notify
+  - Conducted [Usability Testing]() to elicit user feedback 
+  - Refined user stories and product backlog based on user feedback  
+  - Conducted Quality Assurance and [Accessibility Testing]() with defect resolution as necessary.
+  - Conduct Sprint Review meeting to demo completed software and to elicit acceptance/changes from stakeholders 
+  - Initiated subsequent sprint cycles including scrum meetings, usability testing, quality assurance and accessibility testing,  
+    and defect resolution  
+  - Released Informatix’ Cal Notify solution
 
 >d.
 
