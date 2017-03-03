@@ -34,6 +34,8 @@ We started each iteration with a sprint planning meeting. These meetings were ti
 ###CalNotify Architecture|
 Cal Notify is built using a three tier [architecture]() consisting of a client side, single-page web application, a RESTful web API providing backend application services and a database tier for storing application data and state.
 
+  ![Flow Diagram]()
+
 ###Code Flow
 Our code flow illustrating application layers and technologies used is indicated below; our software architecture which  
 illustrates code flow can be found [here]().
