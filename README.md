@@ -189,7 +189,6 @@ Junit was integrated with Maven to build and run the tests, see an example [here
 >o. Continuous integration system, automated testing and continuous deployment
   
 Our team used a continuous integration pipeline to automate testing and deploy code as illustrated [here]().
-[Code flow diagram]()
 
 1. Code is deployed to GitHub and a notification is sent to AWS code builder.  
 2. This triggers automated tests using the frameworks of Junit and Phantomjs  
