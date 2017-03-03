@@ -176,7 +176,7 @@ We used following open source modern technologies:
   7. J-Unit
   
 **Other**:
-  1. Bugzilla 
+  1. Bugzilla
   2. Pencil
   
   >m. Deployed the prototype on an Infrastructure as a Service (IaaS) or Platform as Service (PaaS) provider  
