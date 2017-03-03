@@ -211,15 +211,16 @@ We used following open source modern technologies:
 We deployed application in AWS Elastic Beanstock and provided a Docker-compose [script]() that can be used to deploy the  
 solution on any Docker host. 
     
->s. Provided sufficient documentation to install and run their prototype on another machine  
-  Instructions for installing and running our prototype can be found [here]().  
+>s. Provided sufficient documentation to install and run their prototype on another machine
+
+ Instructions for installing and running our prototype can be found [here]().  
    
  >t. Prototype and underlying platforms used to create and run the prototype are openly licensed and free of charge  
  
  Informatix’ CalNotify prototype and its underlying platforms and frameworks are openly licensed and free. 
     
     
-  ###Additional Information 
+  ### Additional Information 
   To see how we followed the USDS Playbook to build our prototype, see our [Playbook Matrix]().
    
 
