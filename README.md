@@ -176,8 +176,7 @@ We used following open source modern technologies:
   7. J-Unit
   
 **Other**:
-  1. Bugzilla
-  2. Pencil
+  1. Bugzilla, Pencil
   
   >m. Deployed the prototype on an Infrastructure as a Service (IaaS) or Platform as Service (PaaS) provider  
   
@@ -185,7 +184,7 @@ We used following open source modern technologies:
   
   >n. Developed automated unit tests for our code  
   
-  Junit was integrated with Maven to build and run the tests, see an example [here]().  
+  Junit was integrated with Maven to build and run the tests, see an example [here]().
   
   >o. Continuous integration system, automated testing and continuous deployment
   
