@@ -143,16 +143,16 @@ most recent iteration of the prototype and provide their feedback.  Through this
 
 >j. Used an iterative approach based on feedback prototype  
 
-We conducted two sprints, each sprint informing the subsequent. Each sprint cycle began with a sprint planning meeting and ended  
+We conducted two sprints, each sprint informing the subsequent. Each sprint cycle began with a sprint planning meeting and ended
 with a sprint review and sprint retrospective meetings. Daily scrum meetings provided our team the opportunity to review our  
 progress and discuss testing feedback.  These were incorporate into the sprint and product backlog. For each sprint cycle, our  
 product manager would lead a collaborative session of [whiteboard brainstorming]() that ultimately drove the creation of  
-[user stories](), wireframes and mockups and defined what was to be accomplished in each sprint or put into the product backlog for  
+[user stories](), wireframes and mockups and defined what was to be accomplished in each sprint or put into the product backlog for
 the next iteration.  
 
 >k. Created a prototype that works on multiple devices, and presents a responsive design  
 
-Informatix’ prototype works on multiple devices including desktops, laptops, android and iOS phones and tablets. Our team developed  
+Informatix’ prototype works on multiple devices including desktops, laptops, android and iOS phones and tablets. Our team developed
 [mock-ups]() that reflected responsive design for multiple devices.  We conducted usability testing on various devices to ensure its ease of use and design for both Windows or iOS platforms and we tested the prototype in Internet Explorer (IE), Google Chrome, Firefox and Safari. Quality Assurance and Usability testing of the desktop and mobile versions of the prototype was also conducted concurrently, using both iOS and Android devices of various screen sizes and models.
 
 ###Technology 
