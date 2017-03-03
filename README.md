@@ -164,7 +164,8 @@ We used following open source modern technologies:
   2. Karma
   3. CSS
   4. Bootstrap
-  5. Chrome Plug-in
+  5. Chrome Plug-in  
+  
 **Back End**
   1. Tomcat
   2. Jersey
@@ -173,6 +174,7 @@ We used following open source modern technologies:
   5. GSON
   6. Maven
   7. J-Unit
+  
 **Other**:
   1. Bugzilla 
   2. Pencil
