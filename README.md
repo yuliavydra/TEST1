@@ -83,7 +83,7 @@ Human centered design focuses on improving the user experience – a goal that i
   - Established a product backlog used for Sprint planning.
   - Utilized a Sprint Backlog for subsequent sprints.  
   - Developed [wireframes]() based on whiteboard sessions and user stories.
-  - Developed a [template]() to facilitate usability testing, and conducted Usability Testing with users and held one-on-one interviews,     to review wireframes and elicit feedback.  
+  - Developed a [template]() to facilitate usability testing, and conducted [Usability Testing]() with users and held one-on-one interviews,     to review wireframes and elicit feedback.  
   - Developed mockups based on wireframes and results of Usability Testing.
   - Conducted additional [Usability Testing]() for mock-ups. 
   - Developed final user stories based on results of Usability Testing. 
