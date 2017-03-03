@@ -163,7 +163,7 @@ We used following open source modern technologies:
 
 **Front End**  
   1. Angular 2
-  2. Karma
+  2. Selenium
   3. CSS
   4. Bootstrap
   5. Chrome Plug-in  
