@@ -144,9 +144,9 @@ most recent iteration of the prototype and provide their feedback.  Through this
 >j. Used an iterative approach based on feedback prototype  
 
 We conducted two sprints, each sprint informing the subsequent. Each sprint cycle began with a sprint planning meeting and ended
-with a sprint review and sprint retrospective meetings. Daily scrum meetings provided our team the opportunity to review our  
-progress and discuss testing feedback.  These were incorporate into the sprint and product backlog. For each sprint cycle, our  
-product manager would lead a collaborative session of [whiteboard brainstorming]() that ultimately drove the creation of  
+with a sprint review and sprint retrospective meetings. Daily scrum meetings provided our team the opportunity to review our
+progress and discuss testing feedback.  These were incorporate into the sprint and product backlog. For each sprint cycle, our
+product manager would lead a collaborative session of [whiteboard brainstorming]() that ultimately drove the creation of
 [user stories](), wireframes and mockups and defined what was to be accomplished in each sprint or put into the product backlog for
 the next iteration.  
 
