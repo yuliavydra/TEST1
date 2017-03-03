@@ -164,7 +164,8 @@ We used following open source modern technologies:
   2. Karma
   3. CSS
   4. Bootstrap
-  5. Chrome Plug-in  
+  5. Chrome Plug-in
+  
   **Back End**
   1. Tomcat
   2. Jersey
