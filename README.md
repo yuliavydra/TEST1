@@ -221,7 +221,9 @@ Informatix’ CalNotify prototype and its underlying platforms and frameworks ar
     
     
 ### Additional Information 
-To see how we followed the USDS Playbook to build our prototype, see our [Playbook Matrix]().
+To see how we followed the USDS Playbook to build our prototype, see details [here]().
+
+The user manual for CalNotify is located [here].
    
 
 
