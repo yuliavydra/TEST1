@@ -177,47 +177,50 @@ We used following open source modern technologies:
   
 **Other**:
   1. Bugzilla, Pencil
+ 
+ >m. Deployed the prototype on an Infrastructure as a Service (IaaS) or Platform as Service (PaaS) provider  
   
-  >m. Deployed the prototype on an Infrastructure as a Service (IaaS) or Platform as Service (PaaS) provider  
+ We used AWS as our Platform as Service (PaaS) provider.
   
-  We used AWS as our Platform as Service (PaaS) provider.
+ >n. Developed automated unit tests for our code  
   
-  >n. Developed automated unit tests for our code  
+ Junit was integrated with Maven to build and run the tests, see an example [here]().
   
-  Junit was integrated with Maven to build and run the tests, see an example [here]().
+ >o. Continuous integration system, automated testing and continuous deployment
   
-  >o. Continuous integration system, automated testing and continuous deployment
-  
-  Our team used a continuous integration pipeline to automate testing and deploy code as illustrated [here]().
-  [Code flow diagram]()
-  1. Code is deployed to GitHub and a notification is sent to AWS code builder.  
-  2. This triggers automated tests using the frameworks of Junit and Phantomjs  
-  3. Once the automated tests pass, the code is compiled into artifacts.  
-  4. The artifacts are then sent to CodeDeploy.  
-  5. CodeDeploy service packages the artifacts and deploys them to AWS Elastic Beanstock.
-    
-  >p. Set up and used configuration management 
-    
-  For both development and production we used GitHub for source change control and AWS managed services for infrastructure,  
-  security, resource inventory, configuration history and configuration change.
+ Our team used a continuous integration pipeline to automate testing and deploy code as illustrated [here]().
+ [Code flow diagram]()
+ 1. Code is deployed to GitHub and a notification is sent to AWS code builder.  
+ 2. This triggers automated tests using the frameworks of Junit and Phantomjs  
+ 3. Once the automated tests pass, the code is compiled into artifacts.  
+ 4. The artifacts are then sent to CodeDeploy.  
+ 5. CodeDeploy service packages the artifacts and deploys them to AWS Elastic Beanstock.
    
-  >q. Setup or used continuous monitoring  
-  AWS Cloud Watch Service was used to collect and track metrics and perform continuous monitoring of application and server  
-  performance and availability.  
+ >p. Set up and used configuration management 
     
-  >r. Deployed their software in an open source container  
-  We deployed application in AWS Elastic Beanstock and provided a Docker-compose [script]() that can be used to deploy the  
-  solution on any Docker host. 
+ For both development and production we used GitHub for source change control and AWS managed services for infrastructure,  
+ security, resource inventory, configuration history and configuration change.
+  
+ >q. Setup or used continuous monitoring  
+ 
+ AWS Cloud Watch Service was used to collect and track metrics and perform continuous monitoring of application and server  
+ performance and availability.  
     
-  >s. Provided sufficient documentation to install and run their prototype on another machine  
+ >r. Deployed their software in an open source container  
+ 
+We deployed application in AWS Elastic Beanstock and provided a Docker-compose [script]() that can be used to deploy the  
+solution on any Docker host. 
+    
+>s. Provided sufficient documentation to install and run their prototype on another machine  
   Instructions for installing and running our prototype can be found [here]().  
    
-  >t. Prototype and underlying platforms used to create and run the prototype are openly licensed and free of charge  
-  Informatix’ CalNotify prototype and its underlying platforms and frameworks are openly licensed and free. 
+ >t. Prototype and underlying platforms used to create and run the prototype are openly licensed and free of charge  
+ 
+ Informatix’ CalNotify prototype and its underlying platforms and frameworks are openly licensed and free. 
     
     
   ###Additional Information 
-    To see how we followed the USDS Playbook to build our prototype, see our [Playbook Matrix]().
+  To see how we followed the USDS Playbook to build our prototype, see our [Playbook Matrix]().
    
 
 
