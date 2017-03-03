@@ -122,6 +122,7 @@ We used Swagger to document the RESTful API.https://app.swaggerhub.com/api/ptort
 A screenshot illustrating this can be found [here]().
 
 >g. Section 508 of the Americans with Disabilities Act and WCAG 2.0  
+
 To ensure compliance with Section 508 of the Americans with Disabilities Act and WCAG 2.0, [Accessibility Testing]() was completed  
 with the use of the Accessibility Developer Tools plugin in Chrome browser. The use of automated testing on the Cal Notify  
 prototype provided validation of the 508 complaint standards.  
@@ -164,7 +165,6 @@ We used following open source modern technologies:
   3. CSS
   4. Bootstrap
   5. Chrome Plug-in  
-  
   **Back End**
   1. Tomcat
   2. Jersey
