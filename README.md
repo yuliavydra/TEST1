@@ -100,7 +100,125 @@ Human centered design focuses on improving the user experience – a goal that i
     and defect resolution  
   - Released Informatix’ Cal Notify solution
 
->d.
+>d.As part of our [Human Centered Design], we used the following user-centric design techniques or tools.
+
+1.	[Persona]() development
+2.	[Surveying]()potential users
+3.	[Wireframe]() development through [user interviews]()
+4. [Mockup]() development and user interviews
+5.	[Style Guide]() development 
+6.	[Usability testing]() within Sprints
+
+###Prototype Development 
+
+>e.Used GitHub to document code commits  
+A Private GitHub repository was created as soon as project began. As the design process continued, new and changed code was 
+committed to the repository at the end of each workday.  Once coding was finalized, the repository was made Public to present the prototype for evaluation.
+
+>f.Used Sweagger to document theRESTful API  
+We used Swagger to document the RESTful API.https://app.swaggerhub.com/api/ptortiz/calnotify-api/1.0.1
+A screenshot illustrating this can be found [here]().
+
+>g. Section 508 of the Americans with Disabilities Act and WCAG 2.0  
+To ensure compliance with Section 508 of the Americans with Disabilities Act and WCAG 2.0, [Accessibility Testing]() was completed  
+with the use of the Accessibility Developer Tools plugin in Chrome browser. The use of automated testing on the Cal Notify  
+prototype provided validation of the 508 complaint standards.  
+
+>h.Created or used a design style guide and/or a pattern library  
+Consistency in look, feel and format are essential to maximizing the functionality and usability of any application.  
+With that in mind, our Visual Designer created a design created a [style guide]() that detailed the design elements all team  
+members would use from iteration to iteration, not only to create a user-centric application, but also to facilitate and  
+speed the development process.
+
+>i.Performed usability tests with people  
+We tested usability with real people to get real feedback.  During each development sprint, our [testers]() were invited to use the  
+most recent iteration of the prototype and provide their feedback.  Through this testing [process](), we were able achieve continuous improvement by incorporating their feedback into subsequent iterations of the prototype.
+
+>j.Used an iterative approach based on feedback prototype  
+We conducted two sprints, each sprint informing the subsequent. Each sprint cycle began with a sprint planning meeting and ended  
+with a sprint review and sprint retrospective meetings. Daily scrum meetings provided our team the opportunity to review our  
+progress and discuss testing feedback.  These were incorporate into the sprint and product backlog. For each sprint cycle, our  
+product manager would lead a collaborative session of [whiteboard brainstorming]() that ultimately drove the creation of  
+[user stories](), wireframes and mockups and defined what was to be accomplished in each sprint or put into the product backlog for  
+the next iteration.  
+
+>k.Created a prototype that works on multiple devices, and presents a responsive design  
+
+Informatix’ prototype works on multiple devices including desktops, laptops, android and iOS phones and tablets. Our team developed  
+[mock-ups]() that reflected responsive design for multiple devices.  We conducted usability testing on various devices to ensure its ease of use and design for both Windows or iOS platforms and we tested the prototype in Internet Explorer (IE), Google Chrome, Firefox and Safari. Quality Assurance and Usability testing of the desktop and mobile versions of the prototype was also conducted concurrently, using both iOS and Android devices of various screen sizes and models.
+
+###Technology 
+
+>l.Used at least five (5) modern and open-source technologies  
+
+We used following open source modern technologies:
+
+**Front End**  
+  1. Angular 2
+  2. Karma
+  3. CSS
+  4. Bootstrap
+  5. Chrome Plug-in  
+  
+  **Back End**
+  1. Tomcat
+  2. Jersey
+  3. Postgres
+  4. NGINX
+  5. GSON
+  6. Maven
+  7. J-Unit
+  
+  **Other**:
+  1. Bugzilla 
+  2. Pencil
+  
+  >m. Deployed the prototype on an Infrastructure as a Service (IaaS) or Platform as Service (PaaS) provider  
+  We used AWS as our Platform as Service (PaaS) provider.
+  
+  >n.Developed automated unit tests for our code  
+  Junit was integrated with Maven to build and run the tests, see an example [here]().  
+  
+  >o.Continuous integration system, automated testing and continuous deployment
+  Our team used a continuous integration pipeline to automate testing and deploy code as illustrated [here]().
+  [Code flow diagram]()  
+    1. Code is deployed to GitHub and a notification is sent to AWS code builder.  
+    2. This triggers automated tests using the frameworks of Junit and Phantomjs  
+    3. Once the automated tests pass, the code is compiled into artifacts.  
+    4. The artifacts are then sent to CodeDeploy.  
+    5. CodeDeploy service packages the artifacts and deploys them to AWS Elastic Beanstock.
+    
+    >p.Set up and used configuration management 
+    
+    For both development and production we used GitHub for source change control and AWS managed services for infrastructure,  
+    security, resource inventory, configuration history and configuration change.
+    
+    >q.Setup or used continuous monitoring  
+    AWS Cloud Watch Service was used to collect and track metrics and perform continuous monitoring of application and server  
+    performance and availability.  
+    
+    >r.Deployed their software in an open source container  
+    We deployed application in AWS Elastic Beanstock and provided a Docker-compose [script]() that can be used to deploy the  
+    solution on any Docker host. 
+    
+    >s.Provided sufficient documentation to install and run their prototype on another machine  
+    Instructions for installing and running our prototype can be found [here]().  
+    
+    >t.Prototype and underlying platforms used to create and run the prototype are openly licensed and free of charge  
+    Informatix’ CalNotify prototype and its underlying platforms and frameworks are openly licensed and free. 
+    
+    
+    ###Additional Information 
+        To see how we followed the USDS Playbook to build our prototype, see our [Playbook Matrix]().
+  
+  
+
+
+  
+  
+  
+  
+  
 
 
 
