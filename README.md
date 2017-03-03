@@ -87,7 +87,7 @@ Human centered design focuses on improving the user experience – a goal that i
 -	Developed final user stories based on results of Usability Testing.
 -	Create our [style guide]() and established design philosophy based on user feedback.
 
-* Implementation – our team’s implementation efforts included the following
+* Implementation – our team’s implementation efforts included the following  
 -	Began our first sprint cycle
 -	Conduct Sprint Planning to commit to user stories to develop in the sprint
 -	Conducted daily scrum meetings 
